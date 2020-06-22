@@ -36,7 +36,7 @@ I can be found on GitHub [here](https://github.com/i-mansour). My username is 'i
 
 ## R Markdown
 
-This document represents my first Rmarkdown document. I am learning what to do by checking out the Getting Started section on the  [Rmarkdown website](http://rmarkdown.rstudio.com) and the [R markdown chapter in 'R for Data Science'](https://r4ds.had.co.nz/r-markdown.html).
+This document is my first Rmarkdown document. I am learning what to do by checking out the Getting Started section on the  [Rmarkdown website](http://rmarkdown.rstudio.com) and the [R markdown chapter in 'R for Data Science'](https://r4ds.had.co.nz/r-markdown.html).
 
 
 ## A collection of digital resources:

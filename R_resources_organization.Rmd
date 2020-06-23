@@ -49,7 +49,7 @@ I can be found on GitHub [here](https://github.com/i-mansour). My username is 'i
 
 ## R Markdown
 
-This document is my first R Markdown document. I am learning what to do by checking out the Getting Started section on the  [R Markdown website](http://rmarkdown.rstudio.com) and the [R Markdown chapter in *R for Data Science*](https://r4ds.had.co.nz/r-markdown.html).
+This document is my first R Markdown document. I am learning what to do by checking out the Getting Started section on the  [R Markdown website](http://rmarkdown.rstudio.com) and the [R Markdown chapter in *R for Data Science*](https://r4ds.had.co.nz/r-markdown.html). Info about publishing R Markdown documents on GitHub can be found [here](https://resources.github.com/whitepapers/github-and-rstudio/).
 
 
 ## A collection of digital resources:

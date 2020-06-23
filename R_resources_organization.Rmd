@@ -4,6 +4,7 @@ author: "India Mansour"
 output: html_document
 ---
 
+This is a log of my learning process with R Markdown and GitHub. Some information is specific to my local machine and personal goals; the resources linked throughout might also prove helpful to others.
 
 ## Goals
 
@@ -15,15 +16,22 @@ Create a better workflow and organizational system for data analysis in R. This 
 
 (c) creating Rmarkdown documents that I can share with colleagues, students,  and generally to keep myself organized
 
-Endgame: Improve my R skills and learn new data analysis methods. Make a series of Rmarkdown documents instead of scripts that are 75% comments. End up with a collection of nice-looking and easily share-able documents that I can give to people who ask nicely.
+Endgame: 
+
+* Personal:
+    + improve my R skills and learn new data analysis methods
+    + make a series of Rmarkdown documents instead of scripts that are 75% comments 
+    + end up with a collection of nice-looking and easily share-able documents
+* Teaching:
+    + develop future teaching materials using R markdown instead of scripts
 
 
 ## How will I tame the chaos?
 
-I have created a new folder to park things like this guide, useful little bits of code and scripts that are not associated with a particular project, books about working in R, and most importantly, folders containing new R projects. Location and contents of that folder:
+I have created a new folder to park things like this guide (contained in the R projected called 'initialize'), useful little bits of code and scripts that are not currently associated with a project, books about working in R, and folders containing new R projects. Location and contents of that folder:
 
 ```{r}
-dir("/Users/fastloris/R_general")
+dir("~/R_general")
 ```
 
 
@@ -36,19 +44,33 @@ I can be found on GitHub [here](https://github.com/i-mansour). My username is 'i
 
 ## R Markdown
 
-This document is my first Rmarkdown document. I am learning what to do by checking out the Getting Started section on the  [Rmarkdown website](http://rmarkdown.rstudio.com) and the [R markdown chapter in 'R for Data Science'](https://r4ds.had.co.nz/r-markdown.html).
+This document is my first R Markdown document. I am learning what to do by checking out the Getting Started section on the  [R Markdown website](http://rmarkdown.rstudio.com) and the [R Markdown chapter in *R for Data Science*](https://r4ds.had.co.nz/r-markdown.html).
 
 
 ## A collection of digital resources:
 
-[R for Data Science](https://r4ds.had.co.nz/) is based on packages in the 'tidyverse' universe. There is information about data visualization and exploration, data wrangling and modeling. It also includes a chapter about Rmarkdown.
+[R for Data Science](https://r4ds.had.co.nz/), by Garrett Grolemund and Hadley Wickham, is based on `tidyverse` packages. There is information about data visualization and exploration, data wrangling and modeling. It also includes a chapter about Rmarkdown.
 
-[R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/) discusses the history of R and then goes into some important basics, including installation, R objects, reading and writing data, tidying data (using both base R and later dplyr), loops, functions and regular expressions.
+> "This book will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualise it and model it."
 
-[STAT545](https://stat545.com/) is a data science course developed by Jenny Bryan, a tidyverse developer and author of Happy Git and GitHub for the useR. Data wrangling and visualization, writing functions and creating packages.
+[R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/), by Roger D. Peng, discusses the history of R and then goes into some important basics, including installation, R objects, reading and writing data, tidying data (using both base R and later `dplyr`), loops, functions and regular expressions.
 
-[Efficient R programming](https://bookdown.org/csgillespie/efficientR/)
+> "This book is about the fundamentals of R programming. You will get started with the basics of the language, learn how to manipulate datasets, how to write functions, and how to debug and optimize code."
 
-[NEON data](https://www.neonscience.org/data) is a large ecological dataset that could be good for learning new statistical analysis methods. From their website: "NEON collects environmental data and archival samples that characterize plant, animals, soil, nutrients, freshwater and atmosphere from 81 field sites strategically located in terrestrial and freshwater ecosystems across the U.S."
+[STAT545](https://stat545.com/) is a data science course developed by Jenny Bryan, a `tidyverse` developer and author of Happy Git and GitHub for the useR. Data wrangling and visualization, writing functions and creating packages.
+
+> "This site is about everything that comes up during data analysis **except for statistical modelling and inference.**"
+
+[Efficient R programming](https://bookdown.org/csgillespie/efficientR/) by Colin Gillespie and Robin Lovelace.
+
+> "*Efficient R Programming* is about increasing the amount of work you can do with R in a given amount of time. It’s about both *computational* and *programmer* efficiency."
+
+[Advanced R](https://adv-r.hadley.nz/) by Hadley Wickham. From the intro: 
+
+> "The book is designed primarily for R users who want to improve their programming skills and understanding of the language."
+
+[NEON data](https://www.neonscience.org/data) is a large ecological dataset that could be good for learning new statistical analysis methods. From their website: 
+
+> "NEON collects environmental data and archival samples that characterize plant, animals, soil, nutrients, freshwater and atmosphere from 81 field sites strategically located in terrestrial and freshwater ecosystems across the U.S."
 
 

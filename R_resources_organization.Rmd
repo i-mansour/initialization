@@ -43,7 +43,7 @@ dir("~/R_general")
 
 ## GitHub
 
-I will follow the guide [Happy Git and GitHub for the useR](https://happygitwithr.com/) to get started with using GitHub.
+I will follow the guide [*Happy Git and GitHub for the useR*](https://happygitwithr.com/) to get started with using GitHub.
 
 I can be found on GitHub [here](https://github.com/i-mansour). My username is 'i-mansour'.
 
@@ -63,7 +63,7 @@ This document is my first R Markdown document. I am learning what to do by check
 
 > "This book is about the fundamentals of R programming. You will get started with the basics of the language, learn how to manipulate datasets, how to write functions, and how to debug and optimize code."
 
-[STAT545](https://stat545.com/) is a data science course developed by Jenny Bryan, a `tidyverse` developer and author of Happy Git and GitHub for the useR. Data wrangling and visualization, writing functions and creating packages.
+[STAT545](https://stat545.com/) is a data science course developed by Jenny Bryan, a `tidyverse` developer and author of *Happy Git and GitHub for the useR*. Data wrangling and visualization, writing functions and creating packages.
 
 > "This site is about everything that comes up during data analysis **except for statistical modelling and inference.**"
 

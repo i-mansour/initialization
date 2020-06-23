@@ -21,14 +21,15 @@ Create a better workflow and organizational system for data analysis in R. This 
 
 (c) creating Rmarkdown documents that I can share with colleagues, students,  and generally to keep myself organized
 
-Endgame: 
+#### Endgame: 
 
 * Personal:
     + improve my R skills and learn new data analysis methods
     + make a series of Rmarkdown documents instead of scripts that are 75% comments 
     + end up with a collection of nice-looking and easily share-able documents
-* Teaching:
+* Teaching and Supervision:
     + develop future teaching materials using R markdown instead of scripts
+    + teach students to use GitHub + RStudio from the outset so that we can easily work together on data analysis
 
 
 ## How will I tame the chaos?

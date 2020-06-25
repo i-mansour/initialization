@@ -71,6 +71,8 @@ This document is my first R Markdown document. I am learning what to do by check
 
 > "*Efficient R Programming* is about increasing the amount of work you can do with R in a given amount of time. It’s about both *computational* and *programmer* efficiency."
 
+[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by Yihui Xie, J. J. Allaire, Garrett Grolemund.
+
 [Advanced R](https://adv-r.hadley.nz/) by Hadley Wickham. From the intro: 
 
 > "The book is designed primarily for R users who want to improve their programming skills and understanding of the language."
